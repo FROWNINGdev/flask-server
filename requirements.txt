@@ -5,3 +5,4 @@ mysqlclient
 gunicorn
 flask-migrate
 marshmallow-sqlalchemy
+pymysql
